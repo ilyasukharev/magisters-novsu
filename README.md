@@ -135,7 +135,6 @@
  	В случае необходимости вносятся изменения. Обеспечивается поддержка системы путем внесения изменений и добавления новых программ и элементов данных по мере расширения и изменения потребностей 	бизнеса. 
 
   Источники:
-  
 	1. **Web SQL Database** - www.w3.org
 	2. **SQLite Documentation** - www.sqlite.org/docs.html
 	3. **MS SQL Documentation** - www.learn.microsoft.com/ru-ru/sql/sql-server/
